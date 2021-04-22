@@ -1,0 +1,12 @@
+Grilled Chicken, 10.99
+Steak, 15.99
+Pasta, 12.99
+Salmon, 13.99
+Chicken Nuggets, 7.99
+Mashed Potatoes, 3.99
+Mac & Cheese, 4.99
+Salad, 2.99
+French Fries, 4.99
+Lemonade, 1.99
+Soda, 1.99
+Water, 1.99
